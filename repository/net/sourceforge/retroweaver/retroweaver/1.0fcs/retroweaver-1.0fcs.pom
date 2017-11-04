@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.sourceforge.retroweaver</groupId>
+  <artifactId>retroweaver</artifactId>
+  <version>1.0fcs</version>
+</project>

@@ -1,0 +1,15 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.caucho</groupId>
+  <artifactId>resin</artifactId>
+  <version>3.0.9</version>
+
+  <dependencies>
+    <dependency>
+      <groupId>net.sourceforge.retroweaver</groupId>
+      <artifactId>retroweaver</artifactId>
+      <version>1.0fcs</version>
+    </dependency>
+  </dependencies>
+
+</project>

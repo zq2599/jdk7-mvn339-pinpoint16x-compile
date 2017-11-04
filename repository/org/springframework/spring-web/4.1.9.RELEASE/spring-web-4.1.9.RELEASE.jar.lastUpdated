@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 02:30:25 UTC 2017
+http\://repo.spring.io/libs-release-remote/.lastUpdated=1509762625806
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
+http\://maven.springframework.org/release/.error=Could not transfer artifact org.springframework\:spring-web\:jar\:4.1.9.RELEASE from/to spring-maven-repository (http\://maven.springframework.org/release/)\: GET request of\: org/springframework/spring-web/4.1.9.RELEASE/spring-web-4.1.9.RELEASE.jar from spring-maven-repository failed
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1509762463216
+@default-spring-maven-repository-http\://maven.springframework.org/release/.lastUpdated=1509762526696

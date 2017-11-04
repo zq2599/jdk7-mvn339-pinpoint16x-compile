@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 02:32:14 UTC 2017
+pinpoint-collector-1.6.3-SNAPSHOT.pom>=
+pinpoint-collector-1.6.3-SNAPSHOT.war>=
+pinpoint-collector-1.6.3-SNAPSHOT-classes.jar>=

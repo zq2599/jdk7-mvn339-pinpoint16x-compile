@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.navercorp.pinpoint</groupId>
+  <artifactId>pinpoint-thrift</artifactId>
+  <versioning>
+    <versions>
+      <version>1.6.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171104015640</lastUpdated>
+  </versioning>
+</metadata>

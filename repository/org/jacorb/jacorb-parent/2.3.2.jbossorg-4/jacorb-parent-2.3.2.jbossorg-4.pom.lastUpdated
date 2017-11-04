@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 02:16:17 UTC 2017
+http\://repo.spring.io/libs-release-remote/.error=
+http\://maven.springframework.org/release/.error=
+http\://repo.spring.io/libs-release-remote/.lastUpdated=1509761774784
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1509761777956
+http\://maven.springframework.org/release/.lastUpdated=1509761774043
+http\://jcenter.bintray.com/.error=
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1509761773625
+http\://jcenter.bintray.com/.lastUpdated=1509761775800
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
